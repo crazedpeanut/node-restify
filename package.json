@@ -71,7 +71,7 @@
     "clone-regexp": "^1.0.0",
     "csv": "^1.1.0",
     "escape-regexp-component": "^1.0.2",
-    "formidable": "^1.0.17",
+    "formidable": "^3.2.4",
     "lodash": "^4.17.4",
     "lru-cache": "^4.0.1",
     "mime": "^1.2.11",
